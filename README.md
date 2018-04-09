@@ -5,7 +5,7 @@ StampCore is a Java-based microservice that can be used to stamp PDF files with 
 ## Core Features:
 
 - Watermark Stamping
-- Page targeting (All pages / Selected image per stamp)
+- Page targeting (All pages / Selected page per stamp)
 - Transparent watermarks
 
 ## Todo Features:
