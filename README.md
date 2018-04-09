@@ -1,6 +1,6 @@
 # StampCore
 
-StampCore is a Java-based microservice that can be used to stamp PDF files with multiple watermark images that gets flatten.
+StampCore is a Java-based microservice that can be used for stamping PDF documents with multiple digital right management mechanisms.
 
 ## Core Features:
 
