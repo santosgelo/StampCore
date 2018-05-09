@@ -50,7 +50,7 @@ public class PdfStamper implements DocumentStamper {
         return doc;
     }
 
-    private void AddStamp(Document doc, DocumentStamp stamp) throws MalformedURLException {
+    private void addStamp(Document doc, DocumentStamp stamp) throws MalformedURLException {
         int pageCount = doc.getPdfDocument()
                            .getNumberOfPages();
         int[] pages = stamp.getStampAllPages() ? buildPageList(pageCount) : stamp.getPageNumbers();
@@ -86,7 +86,7 @@ public class PdfStamper implements DocumentStamper {
             ArrayList<DocumentStamp> stamps = request.getStamps();
 
             for(int i = 0, len = stamps.size(); i < len; i++) {
-                AddStamp(outputPdf, stamps.get(i));
+                addStamp(outputPdf, stamps.get(i));
             }
 
             outputPdf.close();
