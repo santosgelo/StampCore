@@ -32,7 +32,7 @@ public class DocumentStampingCommand {
     //endregion
 
     //region Constructors
-    private DocumentStampingCommand() {
+    public DocumentStampingCommand() {
         this.stamps = new ArrayList<DocumentStamp>();
     }
     //endregion

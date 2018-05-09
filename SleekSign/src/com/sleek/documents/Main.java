@@ -11,8 +11,8 @@ public class Main {
     private static DocumentStampingCommand buildTestCommand() {
         DocumentStampingCommand output = new DocumentStampingCommand();
 
-        output.sourcePath = "D:\\test-folder\\pdf-watermarking\\input.pdf";
-        output.outputPath = "D:\\test-folder\\pdf-watermarking\\output.pdf";
+        output.setSourcePath("D:\\test-folder\\pdf-watermarking\\input.pdf");
+        output.setOutputPath("D:\\test-folder\\pdf-watermarking\\output.pdf");
 
         ArrayList<DocumentStamp> stamps = output.getStamps();
 
