@@ -80,8 +80,8 @@ public class PdfStamper implements DocumentStamper {
     @Override
     public void execute(DocumentStampingCommand request) {
         try {
-            generateFileFolder(request.getOutputPath());
-            Document outputPdf = getDocument(request.getSourcePath(), request.getOutputPath());
+            generateFileFolder(request.outputPath);
+            Document outputPdf = getDocument(request.sourcePath, request.outputPath);
 
             ArrayList<DocumentStamp> stamps = request.getStamps();
 

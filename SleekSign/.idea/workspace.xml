@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ff04599-665d-476f-ac9d-4a27b3083a99" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.2863354">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="303">
+          <file leaf-file-name="DocumentStamp.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStamp.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
+                  <folding>
+                    <element signature="e#188#203#0" />
+                    <element signature="docComment;field#sourcePath#0;class#DocumentStamp#0" />
+                    <element signature="docComment;field#horizontalPosition#0;class#DocumentStamp#0" />
+                    <element signature="docComment;field#verticalPosition#0;class#DocumentStamp#0" />
+                    <element signature="docComment;field#height#0;class#DocumentStamp#0" />
+                    <element signature="docComment;field#width#0;class#DocumentStamp#0" />
+                    <element signature="docComment;field#pageNumbers#0;class#DocumentStamp#0" />
+                    <element signature="docComment;field#stampAllPages#0;class#DocumentStamp#0" />
+                    <element signature="n#!!doc;n#DocumentStamp#0;n#DocumentStamp#0" />
+                    <element signature="method#DocumentStamp#0;class#DocumentStamp#0" />
+                    <element signature="e#1130#1154#0" />
+                    <element signature="docComment;method#setVerticalPosition#0;class#DocumentStamp#0" />
+                    <element signature="docComment;method#setHeight#0;class#DocumentStamp#0" />
+                    <element signature="docComment;method#getStampAllPages#0;class#DocumentStamp#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DocumentStampingCommand.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStampingCommand.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="612">
+                  <caret line="39" selection-start-line="39" selection-end-line="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PdfStamper.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfStamper.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="573">
+                  <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="method#buildPageList#0;class#PdfStamper#0" />
+                    <element signature="method#generateFileFolder#0;class#PdfStamper#0" />
+                    <element signature="method#getDocument#0;class#PdfStamper#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="484">
+                  <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="method#buildStamp1#0;class#Main#0" />
+                    <element signature="method#buildStamp2#0;class#Main#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getStampImage</find>
+      <find>pages</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$PROJECT_DIR$/models/PdfStampingRequest.java" />
+        <option value="$PROJECT_DIR$/src/models/PdfStampingRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/models/PdfStampingRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/contracts/PdfStamper.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/models/DocumentSigningRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/contracts/DocumentSigner.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/models/DocumentSigningCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStamp.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfSigner.java" />
+        <option value="$PROJECT_DIR$/SleekSign.iml" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfStamper.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="385" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SleekSign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SleekSign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SleekSign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SleekSign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SleekSign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SleekSign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SleekSign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SleekSign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
+              <item name="file_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SleekSign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sleek\SleekSign\src" />
+      <recent name="D:\sleek\SleekSign" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sleek.documents.Main" />
+      <module name="SleekSign" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff04599-665d-476f-ac9d-4a27b3083a99" name="Default" comment="" />
+      <created>1523174570501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523174570501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.03062302" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3273495" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32946146" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16145833" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#188#203#0" />
+            <element signature="docComment;field#sourcePath#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#horizontalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#verticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#height#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#width#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#pageNumbers#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#stampAllPages#0;class#DocumentStamp#0" />
+            <element signature="n#!!doc;n#DocumentStamp#0;n#DocumentStamp#0" />
+            <element signature="method#DocumentStamp#0;class#DocumentStamp#0" />
+            <element signature="e#1130#1154#0" />
+            <element signature="docComment;method#setVerticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#setHeight#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#getStampAllPages#0;class#DocumentStamp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStampingCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfStamper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="91" column="30" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildPageList#0;class#PdfStamper#0" />
+            <element signature="method#generateFileFolder#0;class#PdfStamper#0" />
+            <element signature="method#getDocument#0;class#PdfStamper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildStamp1#0;class#Main#0" />
+            <element signature="method#buildStamp2#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#188#203#0" />
+            <element signature="docComment;field#sourcePath#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#horizontalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#verticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#height#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#width#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#pageNumbers#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#stampAllPages#0;class#DocumentStamp#0" />
+            <element signature="n#!!doc;n#DocumentStamp#0;n#DocumentStamp#0" />
+            <element signature="method#DocumentStamp#0;class#DocumentStamp#0" />
+            <element signature="e#1130#1154#0" />
+            <element signature="docComment;method#setVerticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#setHeight#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#getStampAllPages#0;class#DocumentStamp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStampingCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfStamper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="91" column="30" lean-forward="true" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildPageList#0;class#PdfStamper#0" />
+            <element signature="method#generateFileFolder#0;class#PdfStamper#0" />
+            <element signature="method#getDocument#0;class#PdfStamper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildStamp1#0;class#Main#0" />
+            <element signature="method#buildStamp2#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#188#203#0" />
+            <element signature="docComment;field#sourcePath#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#horizontalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#verticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#height#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#width#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#pageNumbers#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#stampAllPages#0;class#DocumentStamp#0" />
+            <element signature="n#!!doc;n#DocumentStamp#0;n#DocumentStamp#0" />
+            <element signature="method#DocumentStamp#0;class#DocumentStamp#0" />
+            <element signature="e#1130#1154#0" />
+            <element signature="docComment;method#setVerticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#setHeight#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#getStampAllPages#0;class#DocumentStamp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="179" column="15" lean-forward="true" selection-start-line="179" selection-start-column="15" selection-end-line="179" selection-end-column="15" />
+          <folding>
+            <element signature="e#188#203#0" />
+            <element signature="docComment;field#sourcePath#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#horizontalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#verticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#height#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#width#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#pageNumbers#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#stampAllPages#0;class#DocumentStamp#0" />
+            <element signature="n#!!doc;n#DocumentStamp#0;n#DocumentStamp#0" />
+            <element signature="method#DocumentStamp#0;class#DocumentStamp#0" />
+            <element signature="e#1130#1154#0" />
+            <element signature="docComment;method#setVerticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#setHeight#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#getStampAllPages#0;class#DocumentStamp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/PdfStampingRequest.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="1267" column="23" selection-start-line="1267" selection-start-column="23" selection-end-line="1267" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/contracts/DocumentStamper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SleekSign.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStampingCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#188#203#0" />
+            <element signature="docComment;field#sourcePath#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#horizontalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#verticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#height#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#width#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#pageNumbers#0;class#DocumentStamp#0" />
+            <element signature="docComment;field#stampAllPages#0;class#DocumentStamp#0" />
+            <element signature="n#!!doc;n#DocumentStamp#0;n#DocumentStamp#0" />
+            <element signature="method#DocumentStamp#0;class#DocumentStamp#0" />
+            <element signature="e#1130#1154#0" />
+            <element signature="docComment;method#setVerticalPosition#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#setHeight#0;class#DocumentStamp#0" />
+            <element signature="docComment;method#getStampAllPages#0;class#DocumentStamp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfStamper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildPageList#0;class#PdfStamper#0" />
+            <element signature="method#generateFileFolder#0;class#PdfStamper#0" />
+            <element signature="method#getDocument#0;class#PdfStamper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildStamp1#0;class#Main#0" />
+            <element signature="method#buildStamp2#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SleekSign</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.slf4j:slf4j-log4j12:1.7.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
