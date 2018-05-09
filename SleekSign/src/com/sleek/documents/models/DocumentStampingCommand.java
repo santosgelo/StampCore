@@ -16,29 +16,29 @@ public class DocumentStampingCommand {
      * Property that identifies the source path of the
      * document to be watermarked.
      */
-    public String sourcePath;
+    private String sourcePath;
 
     /**
      * Property that identifies the path where the
      * watermarked document would be saved.
      */
-    public String outputPath;
+    private String outputPath;
 
     /**
      * List of document stamps that would be engraved
      * on the specified document.
      */
-    public ArrayList<DocumentStamp> stamps;
+    private ArrayList<DocumentStamp> stamps;
     //endregion
 
     //region Constructors
-    public DocumentStampingCommand()
-    {
+    private DocumentStampingCommand() {
         this.stamps = new ArrayList<DocumentStamp>();
     }
     //endregion
 
     //region Getters/Setters
+
     /**
      * Method used for getting the source path
      * of the document to be watermarked.
