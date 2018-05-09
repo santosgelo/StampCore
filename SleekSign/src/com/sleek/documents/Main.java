@@ -11,8 +11,8 @@ public class Main {
     private static DocumentStampingCommand buildTestCommand() {
         DocumentStampingCommand output = new DocumentStampingCommand();
 
-        output.sourcePath = "D:\\test-folder\\input.pdf";
-        output.outputPath = "D:\\test-folder\\output.pdf";
+        output.sourcePath = "D:\\test-folder\\pdf-watermarking\\input.pdf";
+        output.outputPath = "D:\\test-folder\\pdf-watermarking\\output.pdf";
 
         ArrayList<DocumentStamp> stamps = output.getStamps();
 
@@ -25,7 +25,7 @@ public class Main {
     private static DocumentStamp buildStamp1() {
         DocumentStamp stamp = new DocumentStamp();
 
-        stamp.setSourcePath("D:\\test-folder\\test.png");
+        stamp.setSourcePath("D:\\test-folder\\pdf-watermarking\\test.png");
         //stamp.setStampAllPages(true);
         stamp.setPageNumbers(new int[] { 1, 2 });
         stamp.setHeight(96);
@@ -39,7 +39,7 @@ public class Main {
     private static DocumentStamp buildStamp2() {
         DocumentStamp stamp = new DocumentStamp();
 
-        stamp.setSourcePath("D:\\test-folder\\sleek stamp.png");
+        stamp.setSourcePath("D:\\test-folder\\pdf-watermarking\\sleek stamp.png");
         //stamp.setStampAllPages(true);
         stamp.setPageNumbers(new int[] { 1 });
         stamp.setHeight(96);
