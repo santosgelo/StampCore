@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class Main {
-    private static DocumentStampingCommand BuildTestCommand() {
+    private static DocumentStampingCommand buildTestCommand() {
         DocumentStampingCommand output = new DocumentStampingCommand();
 
         output.sourcePath = "D:\\test-folder\\input.pdf";
@@ -16,13 +16,13 @@ public class Main {
 
         ArrayList<DocumentStamp> stamps = output.getStamps();
 
-        stamps.add(BuildStamp1());
-        stamps.add(BuildStamp2());
+        stamps.add(buildStamp1());
+        stamps.add(buildStamp2());
 
         return output;
     }
 
-    private static DocumentStamp BuildStamp1() {
+    private static DocumentStamp buildStamp1() {
         DocumentStamp stamp = new DocumentStamp();
 
         stamp.setSourcePath("D:\\test-folder\\test.png");
@@ -36,7 +36,7 @@ public class Main {
         return stamp;
     }
 
-    private static DocumentStamp BuildStamp2() {
+    private static DocumentStamp buildStamp2() {
         DocumentStamp stamp = new DocumentStamp();
 
         stamp.setSourcePath("D:\\test-folder\\sleek stamp.png");
@@ -51,7 +51,7 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException {
-        DocumentStampingCommand request = BuildTestCommand();
+        DocumentStampingCommand request = buildTestCommand();
         PdfStamper signerTool = new PdfStamper();
 
         signerTool.execute(request);

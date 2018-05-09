@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.68944097">
+    <splitter split-orientation="horizontal" split-proportion="0.2863354">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="303">
           <file leaf-file-name="DocumentStamp.java" pinned="false" current-in-tab="false">
@@ -51,8 +51,8 @@
           <file leaf-file-name="PdfStamper.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfStamper.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="607">
-                  <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+                <state relative-caret-position="573">
+                  <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="method#buildPageList#0;class#PdfStamper#0" />
@@ -70,13 +70,12 @@
           <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+                <state relative-caret-position="484">
+                  <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="method#BuildTestCommand#0;class#Main#0" />
-                    <element signature="method#BuildStamp1#0;class#Main#0" />
-                    <element signature="method#BuildStamp2#0;class#Main#0" />
+                    <element signature="method#buildStamp1#0;class#Main#0" />
+                    <element signature="method#buildStamp2#0;class#Main#0" />
                   </folding>
                 </state>
               </provider>
@@ -114,8 +113,8 @@
         <option value="$PROJECT_DIR$/src/com/sleek/documents/models/DocumentStamp.java" />
         <option value="$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfSigner.java" />
         <option value="$PROJECT_DIR$/SleekSign.iml" />
-        <option value="$PROJECT_DIR$/src/com/sleek/documents/Main.java" />
         <option value="$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfStamper.java" />
+        <option value="$PROJECT_DIR$/src/com/sleek/documents/Main.java" />
       </list>
     </option>
   </component>
@@ -245,12 +244,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.03062302" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32831737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3273495" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32946146" />
       <window_info id="Capture Tool" order="2" />
@@ -268,7 +268,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.03062302" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -329,9 +328,8 @@
           <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#BuildTestCommand#0;class#Main#0" />
-            <element signature="method#BuildStamp1#0;class#Main#0" />
-            <element signature="method#BuildStamp2#0;class#Main#0" />
+            <element signature="method#buildStamp1#0;class#Main#0" />
+            <element signature="method#buildStamp2#0;class#Main#0" />
           </folding>
         </state>
       </provider>
@@ -385,9 +383,8 @@
           <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#BuildTestCommand#0;class#Main#0" />
-            <element signature="method#BuildStamp1#0;class#Main#0" />
-            <element signature="method#BuildStamp2#0;class#Main#0" />
+            <element signature="method#buildStamp1#0;class#Main#0" />
+            <element signature="method#buildStamp2#0;class#Main#0" />
           </folding>
         </state>
       </provider>
@@ -490,28 +487,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#BuildTestCommand#0;class#Main#0" />
-            <element signature="method#BuildStamp1#0;class#Main#0" />
-            <element signature="method#BuildStamp2#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/file_management/PdfStamper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        <state relative-caret-position="573">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#buildPageList#0;class#PdfStamper#0" />
             <element signature="method#generateFileFolder#0;class#PdfStamper#0" />
             <element signature="method#getDocument#0;class#PdfStamper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sleek/documents/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildStamp1#0;class#Main#0" />
+            <element signature="method#buildStamp2#0;class#Main#0" />
           </folding>
         </state>
       </provider>
